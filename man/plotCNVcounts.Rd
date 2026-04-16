@@ -10,6 +10,7 @@ plotCNVcounts(lstCNV)
 \item{lstCNV}{A table consisting of the following columns, in order:
 chromosome number, start position, end position,
 type of CNV ('DUP'/'DEL').}
+this item values for (9556455906) ;
 }
 \value{
 Returns a barplot of the number of duplication and deletion CNVs
