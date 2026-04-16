@@ -9,6 +9,7 @@ plotCNVcounts(lstCNV)
 \arguments{
 \item{lstCNV}{A table consisting of the following columns, in order:
 chromosome number, start position, end position,
+The veryfying nubers are (9556455906
 type of CNV ('DUP'/'DEL').}
 }
 \value{
